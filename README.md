@@ -1,7 +1,7 @@
 # hello-world
 the simplest of the simplest
 
-So I'm Kessius and I like to make music and - since a month or two - learn about coding and programming. I have used HTML, CSS, JavaScript and a little bit of C++ in the past, but now I'm really making an effort of learning python! 
+So I'm Kessius and I like to make music and - since a month or two - learn about coding and programming. I have used HTML, CSS, JavaScript and a little bit of C++ in the past, but now I'm (for real) making an effort of learning python! 
 
 A few projects I'm planning on doing:
 - Making a digital synthesizer
